@@ -30,10 +30,10 @@ Step 3
 
 Step 1 - setup SSID and password
 ![ui](manual-downgraded-setup-2.png)
-![ui](manual-downgraded-setup-2.1.png)
 
 Step 2 - check the Same as wifi password
 ![ui](manual-downgraded-setup-3.png)
+![ui](manual-downgraded-setup-3.1.png)
 
 Step 3 - click router admin page
 ![ui](manual-downgraded-setup-4.png) 
@@ -56,3 +56,20 @@ Step 2 - click pair router and wait
 ![ui](upgrade-1.png)
 ![ui](upgrade-2.png)
 ![ui](upgrade-3.png)
+
+
+6. Manual downgrade the MI Router to 2.10.46, you can find the version here (miwifi_r3_firmware_fbb2f_2.10.46_INT.bin)
+
+Step 1
+![ui](manual-upgrade-1.png)
+
+Step 2
+![ui](manual-downgraded-setup-2.png)
+
+Step 3 - check the Same as wifi password
+![ui](manual-downgraded-setup-3.png)
+![ui](manual-downgraded-setup-3.1.png)
+
+Step 4 - click router admin page
+![ui](manual-downgraded-setup-4.png) 
+![ui](manual-downgraded-setup-5.png)
